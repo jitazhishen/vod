@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=150000
+http://oss.alizyw.com:88/api/download?repository=registry.cn-hangzhou.aliyuncs.com/alizyw/www&digest=sha256:53536701712e6fd56f751f5fa3cfd121d7076d9beb4044f63485a163d8727dbc
