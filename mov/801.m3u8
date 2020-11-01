@@ -1,3 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=150000
-http://oss.alizyw.com:88/api/download?repository=swr.cn-east-3.myhuaweicloud.com/alizyw/p1&digest=sha256:fdb6f4dbb0ba49e94e63fe7de3ab5b03757bdc787ff819ac55f91d8edf5b8f22
